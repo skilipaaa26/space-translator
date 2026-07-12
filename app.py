@@ -1,6 +1,5 @@
 import streamlit as st
 import whisper
-from googletrans import Translator
 import os
 import base64
 
